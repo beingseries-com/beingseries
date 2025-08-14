@@ -21,7 +21,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@beingseries.com",
             "icon": "mail",
             "type": "Social"
         }
