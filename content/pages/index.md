@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/1000114265.png
+      url: /images/Image6.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
