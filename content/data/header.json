@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Excerpt",
             "altText": "",
             "url": "/excerpt",
             "showIcon": false,
