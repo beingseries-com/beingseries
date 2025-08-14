@@ -51,7 +51,7 @@ sections:
           - mr-14
   - type: FeaturedItemsSection
     title:
-      text: Approaches
+      text: Core Tools
       color: text-dark
       styles:
         self:
