@@ -47,7 +47,7 @@
             "elementId": ""
         }
     ],
-    "variant": "logo-left-primary-nav-left",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
