@@ -26,9 +26,9 @@
         },
         {
             "type": "Link",
-            "label": "Newsletter",
+            "label": "Excerpt",
             "altText": "",
-            "url": "/newsletter",
+            "url": "/excerpt",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -37,9 +37,9 @@
         },
         {
             "type": "Link",
-            "label": "Excerpt",
+            "label": "Newsletter",
             "altText": "",
-            "url": "/excerpt",
+            "url": "/newsletter",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
