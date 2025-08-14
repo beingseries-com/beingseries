@@ -46,6 +46,8 @@ sections:
           - pl-24
           - pb-16
           - pr-24
+        margin:
+          - ml-14
   - type: FeaturedItemsSection
     title:
       text: ''
