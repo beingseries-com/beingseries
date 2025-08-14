@@ -15,9 +15,9 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "Series",
+            "label": "Excerpt",
             "altText": "",
-            "url": "/test",
+            "url": "/excerpt",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -26,9 +26,9 @@
         },
         {
             "type": "Link",
-            "label": "Excerpt",
+            "label": "Series",
             "altText": "",
-            "url": "/excerpt",
+            "url": "/test",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
