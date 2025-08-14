@@ -24,7 +24,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/1000114265.png
       altText: how to be here when your mind won’t stop
       elementId: ''
       type: ImageBlock
