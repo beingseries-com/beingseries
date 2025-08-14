@@ -114,7 +114,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Proof journal
-        subtitle: Evidence over inspiration
+        subtitle: evidence over inspiration
         text: |+
           One line each night: “What tiny promise did I keep?”
 
