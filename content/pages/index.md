@@ -1,5 +1,5 @@
 ---
-title: Home
+title: BEING
 slug: /
 sections:
   - type: GenericSection
