@@ -45,7 +45,7 @@ sections:
           - pt-16
           - pl-24
           - pb-16
-          - pr-0
+          - pr-56
         margin:
           - ml-14
           - mr-14
