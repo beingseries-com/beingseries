@@ -48,6 +48,7 @@ sections:
           - pr-24
         margin:
           - ml-14
+          - mr-14
   - type: FeaturedItemsSection
     title:
       text: ''
