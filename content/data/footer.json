@@ -7,12 +7,6 @@
     "text": "© 2025 Edward S. Lewis • beingseries.com \n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Instagram link",
             "url": "https://www.instagram.com/being.series",
