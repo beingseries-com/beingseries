@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/being present book cover.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
