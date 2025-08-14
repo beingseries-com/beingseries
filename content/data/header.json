@@ -11,19 +11,7 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "type": "Link",
-            "label": "Excerpt",
-            "altText": "",
-            "url": "/excerpt",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "type": "Link",
