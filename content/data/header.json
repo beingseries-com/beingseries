@@ -11,50 +11,42 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
+    "primaryLinks": [],
+    "secondaryLinks": [
         {
-            "type": "SubNav",
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
+            "type": "Link",
+            "label": "Excerpt",
+            "altText": "",
+            "url": "/excerpt",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Series",
+            "altText": "",
+            "url": "/test",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Newsletter",
+            "altText": "",
+            "url": "/newsletter",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
-    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
