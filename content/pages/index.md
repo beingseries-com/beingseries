@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: how to be here when your mind won’t stop
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      A warm, practical field guide for overthinkers: tiny tools, short
+      chapters, and a one-line proof journal. Start smaller than you think; keep
+      the changes because they fit real life.
+
     actions:
       - label: Get started
         altText: ''
