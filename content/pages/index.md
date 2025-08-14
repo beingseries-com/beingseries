@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Now minute
-        subtitle: Numbers Done
+        subtitle: 'start small, on purpose'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
