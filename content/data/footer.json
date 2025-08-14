@@ -19,6 +19,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/being.series",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
