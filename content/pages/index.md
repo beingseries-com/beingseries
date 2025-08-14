@@ -51,7 +51,7 @@ sections:
           - mr-14
   - type: FeaturedItemsSection
     title:
-      text: Section title
+      text: Approaches
       color: text-dark
       styles:
         self:
