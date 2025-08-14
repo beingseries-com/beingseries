@@ -59,10 +59,10 @@ sections:
       - type: FeaturedItem
         title: Now minute
         subtitle: 'start small, on purpose'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Define the smallest visible step. Do it for one minute on purpose.
+          Stop on purpose.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
