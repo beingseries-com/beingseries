@@ -40,7 +40,7 @@
             "label": "Newsletter",
             "altText": "",
             "url": "/newsletter",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
