@@ -14,7 +14,7 @@ sections:
       the changes because they fit real life.
 
     actions:
-      - label: See Tutorials
+      - label: Read an excerpt
         altText: ''
         url: /
         showIcon: true
