@@ -45,7 +45,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16
+          - pr-24
   - type: FeaturedItemsSection
     title:
       text: ''
