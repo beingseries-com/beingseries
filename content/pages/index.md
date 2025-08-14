@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       url: /images/1000114265.png
-      altText: Unblock your team boost your time to production preview
+      altText: how to be here when your mind won’t stop
       elementId: ''
       type: ImageBlock
     badge:
