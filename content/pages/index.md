@@ -111,7 +111,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Proof journal
-        subtitle: Faster
+        subtitle: Evidence over inspiration
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
