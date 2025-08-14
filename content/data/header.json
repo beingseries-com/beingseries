@@ -27,7 +27,7 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Series",
             "altText": "",
             "url": "/test",
             "showIcon": false,
