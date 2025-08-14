@@ -38,7 +38,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Newsletter",
             "altText": "",
             "url": "/newsletter",
             "showIcon": false,
