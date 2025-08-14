@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/being present book cover.png
+      url: '/images/ChatGPT Image Aug 13, 2025, 08_55_15 PM.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
