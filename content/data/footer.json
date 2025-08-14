@@ -1,22 +1,12 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "A description of your brand",
+    "text": "© 2025 Edward S. Lewis • beingseries.com \n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/being.series",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
             "altText": "LinkedIn link",
@@ -26,7 +16,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@beingseries.com",
             "icon": "mail",
             "type": "Social"
         }

@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/Image5.png
+      url: /images/Image6.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -43,15 +43,15 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-24
+          - pl-48
           - pb-16
-          - pr-24
+          - pr-0
         margin:
           - ml-14
           - mr-14
   - type: FeaturedItemsSection
     title:
-      text: ''
+      text: Approaches
       color: text-dark
       styles:
         self:
