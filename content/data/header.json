@@ -18,7 +18,7 @@
             "label": "Excerpt",
             "altText": "",
             "url": "/excerpt",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
