@@ -25,7 +25,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/BEING_present_laying_landscape_1_1920x1080.jpg
+      url: /images/file_00000000c8c061f598ff229295f545a9.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
