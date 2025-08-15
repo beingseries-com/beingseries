@@ -1,3 +1,20 @@
-[build]
-  command = "npm run build"
-  publish = ".next"
+[[redirects]]
+  from = "/news"
+  to = "https://news.beingseries.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "http://beingseries.com/*"
+  to = "https://beingseries.com/:splat"
+  status = 301
+
+[[redirects]]
+  from = "http://www.beingseries.com/*"
+  to = "https://beingseries.com/:splat"
+  status = 301
+
+[[redirects]]
+  from = "https://www.beingseries.com/*"
+  to = "https://beingseries.com/:splat"
+  status = 301
