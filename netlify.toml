@@ -1,20 +1,23 @@
+# Redirect the www host to Wix (both http and https)
 [[redirects]]
-  from = "/news"
-  to = "https://news.beingseries.com"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "http://beingseries.com/*"
-  to = "https://beingseries.com/:splat"
+  from = "https://www.beingseries.com/*"
+  to   = "https://thebeingseries.wixsite.com/being-series-books-1"
   status = 301
+  force  = true
 
 [[redirects]]
   from = "http://www.beingseries.com/*"
-  to = "https://beingseries.com/:splat"
+  to   = "https://thebeingseries.wixsite.com/being-series-books-1"
   status = 301
+  force  = true
+
+# keep your other rules (examples)
+[[redirects]]
+  from = "/news"
+  to   = "https://news.beingseries.com"
+  status = 302
 
 [[redirects]]
-  from = "https://www.beingseries.com/*"
-  to = "https://beingseries.com/:splat"
+  from = "http://beingseries.com/*"
+  to   = "https://beingseries.com/:splat"
   status = 301
